@@ -2,8 +2,8 @@ O Painel COVID é um projeto dedicado à análise de dados da pandemia, fornecen
 
 Veja mais:
 
-Linkedin: ([link](www.linkedin.com/in/cezarribeiro))
+Linkedin: [link](www.linkedin.com/in/cezarribeiro)
 
-Kaggle Notebook: ([link](https://www.kaggle.com/code/cezarribeirojr/an-lise-de-dados-covid-19-dashboard))
+Kaggle Notebook: [link](https://www.kaggle.com/code/cezarribeirojr/an-lise-de-dados-covid-19-dashboard)
 
-Google Data Studio: ([link](https://lookerstudio.google.com/reporting/92545523-51c2-4dc1-a58c-229492949516))
+Google Data Studio: [link](https://lookerstudio.google.com/reporting/92545523-51c2-4dc1-a58c-229492949516)
